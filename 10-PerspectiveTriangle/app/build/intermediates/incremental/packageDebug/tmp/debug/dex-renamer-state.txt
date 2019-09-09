@@ -1,0 +1,4 @@
+#Fri Aug 23 17:22:34 IST 2019
+base.0=C\:\\Users\\91797\\Documents\\Android\\10-PerspectiveTriangle\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
