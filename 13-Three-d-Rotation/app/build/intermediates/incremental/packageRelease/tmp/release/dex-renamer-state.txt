@@ -1,0 +1,4 @@
+#Sat Aug 31 12:13:28 IST 2019
+base.0=C\:\\Users\\91797\\Documents\\Android\\13-Three-d-Rotation\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+path.0=classes.dex
+renamed.0=classes.dex
