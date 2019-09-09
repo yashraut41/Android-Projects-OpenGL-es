@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Aug 23 14:15:02 IST 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\91797\\Documents\\Android\\09-OrthoTriangle\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+0.path=classes.dex
+0.set=DEX
+count=1
