@@ -1,0 +1,4 @@
+#Sun Aug 18 19:04:16 IST 2019
+base.0=C\:\\Users\\91797\\Documents\\Android\\08-BlueScreen\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

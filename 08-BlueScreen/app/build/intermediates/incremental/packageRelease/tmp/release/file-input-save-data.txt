@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Aug 18 19:04:17 IST 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\91797\\Documents\\Android\\08-BlueScreen\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+0.path=classes.dex
+0.set=DEX
+count=1
